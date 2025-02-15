@@ -11,9 +11,13 @@ bash download.sh <exercise name>
 
   ## git-add
   
-  Hello world
+  |Exercise|Link|Attempts|
+  |--------|----|--------|
+  |grocery-shopping|[Instructions](https://github.com/git-mastery/grocery-shopping)|2|
   
   ## git-commit
   
-  Hello world
+  |Exercise|Link|Attempts|
+  |--------|----|--------|
+  |grocery-shopping|[Instructions](https://github.com/git-mastery/grocery-shopping)|2|
   
