@@ -31,9 +31,9 @@ jobs:
             }
             console.log(repoGroups)
 
-            const newReadme = ```
+            const newReadme = `
             # This is a test
-            ```
+            `
 
             await github.rest.repos.createOrUpdateFileContents({
               owner: context.repo.owner,
