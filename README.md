@@ -9,14 +9,14 @@ With the download script, run the following command for each problem set:
 bash download.sh <exercise name>
 ```
 
-  ## git-commit
+  ## `git-commit`
   
   |Exercise|Link|Attempts|
   |--------|----|--------|
   |double-take|[Instructions](https://github.com/git-mastery/double-take)|1|
 |grocery-shopping|[Instructions](https://github.com/git-mastery/grocery-shopping)|2|
   
-  ## git-add
+  ## `git-add`
   
   |Exercise|Link|Attempts|
   |--------|----|--------|
