@@ -29,7 +29,6 @@ jobs:
                 }
               }
             }
-            console.log(repoGroups)
 
 
             let newReadme = `
@@ -47,15 +46,13 @@ jobs:
             repoGroups.forEach((value, key) => {
               const data = value.map(v => `|${v.name}|[Instructions](${v.html_url})|${v.forks_count}|`).join("\n")
               newReadme += `
-              ## ${key}
+              ## \`${key}\`
               
               |Exercise|Link|Attempts|
               |--------|----|--------|
               ${data}
               `
             })
-
-            console.log(newReadme)
 
             const existingReadme = await github.rest.repos.getContent({
               owner: context.repo.owner,
