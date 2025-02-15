@@ -45,10 +45,13 @@ jobs:
             `
 
             repoGroups.forEach((value, key) => {
+              const data = value.map(v => `|${v.name}|[Instructions](${v.html_url})|${v.forks_count}|`).join("\n")
               newReadme += `
               ## ${key}
               
-              Hello world
+              |Exercise|Link|Attempts|
+              |--------|----|--------|
+              ${data}
               `
             })
 
