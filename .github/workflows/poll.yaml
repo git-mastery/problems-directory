@@ -45,7 +45,11 @@ jobs:
             `
 
             repoGroups.forEach((value, key) => {
-              newReadme += `## ${key}`
+              newReadme += `
+              ## ${key}
+              
+              Hello world
+              `
             })
 
             console.log(newReadme)
