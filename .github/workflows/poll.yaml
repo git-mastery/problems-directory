@@ -34,11 +34,12 @@ jobs:
             const newReadme = `
             # This is a test
             `
+            console.log(newReadme)
 
             await github.rest.repos.createOrUpdateFileContents({
               owner: context.repo.owner,
               repo: "problems-directory",
-              path: `README.md`,
-              message: `Update problem sets list`,
+              path: "README.md",
+              message: "Update problem sets list",
               content: btoa(newReadme)
             })
