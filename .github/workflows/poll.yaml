@@ -36,10 +36,17 @@ jobs:
             `
             console.log(newReadme)
 
+            const existingReadme = await github.rest.repos.getContent({
+              owner: context.repo.owner,
+              repo: "problems-directory",
+              path: "README.md",
+            })
+
             await github.rest.repos.createOrUpdateFileContents({
               owner: context.repo.owner,
               repo: "problems-directory",
               path: "README.md",
               message: "Update problem sets list",
-              content: btoa(newReadme)
+              content: btoa(newReadme),
+              sha: existingReadme.data.sha,
             })
