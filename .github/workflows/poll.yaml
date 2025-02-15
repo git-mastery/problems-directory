@@ -20,7 +20,7 @@ jobs:
             })
             const repoGroups = new Map();
             for (const repo of repos) {
-              for (const topic of topics) {
+              for (const topic of repo.topics) {
                 if (topic !== "problem-set") {
                   if (!repoGroups.has(topic)) {
                     repoGroups.set(topic, [])
