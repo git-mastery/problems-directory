@@ -19,6 +19,9 @@ jobs:
           touch hello.txt
           ls
           git status
+          git add .
+          git commit -m "Test commit"
+          git push -u origin main
       - name: Fetch all
         uses: actions/github-script@v7
         with:
