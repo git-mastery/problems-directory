@@ -9,12 +9,6 @@ With the download script, run the following command for each problem set:
 bash download.sh <exercise name>
 ```
 
-  ## `git-status`
-  
-  |Exercise|Link|Attempts|
-  |--------|----|--------|
-  |amateur-detective|[Instructions](https://github.com/git-mastery/amateur-detective)|0|
-  
   ## `git-commit`
   
   |Exercise|Link|Attempts|
@@ -27,4 +21,10 @@ bash download.sh <exercise name>
   |Exercise|Link|Attempts|
   |--------|----|--------|
   |grocery-shopping|[Instructions](https://github.com/git-mastery/grocery-shopping)|2|
+  
+  ## `git-status`
+  
+  |Exercise|Link|Attempts|
+  |--------|----|--------|
+  |amateur-detective|[Instructions](https://github.com/git-mastery/amateur-detective)|0|
   
