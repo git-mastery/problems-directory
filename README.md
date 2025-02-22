@@ -19,8 +19,8 @@ bash download.sh <exercise name>
   
   |Exercise|Link|Attempts|
   |--------|----|--------|
-  |double-take|[Instructions](https://github.com/git-mastery/double-take)|1|
-|grocery-shopping|[Instructions](https://github.com/git-mastery/grocery-shopping)|2|
+  |grocery-shopping|[Instructions](https://github.com/git-mastery/grocery-shopping)|2|
+|double-take|[Instructions](https://github.com/git-mastery/double-take)|1|
   
   ## `git-status`
   
