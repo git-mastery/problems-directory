@@ -15,6 +15,12 @@ bash download.sh <exercise name>
   |--------|----|--------|
   |grocery-shopping|[Instructions](https://github.com/git-mastery/grocery-shopping)|2|
   
+  ## `git-branch`
+  
+  |Exercise|Link|Attempts|
+  |--------|----|--------|
+  |bonsai-tree|[Instructions](https://github.com/git-mastery/bonsai-tree)|0|
+  
   ## `git-commit`
   
   |Exercise|Link|Attempts|
