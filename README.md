@@ -19,7 +19,7 @@ bash download.sh <exercise name>
   
   |Exercise|Link|Attempts|
   |--------|----|--------|
-  |bonsai-tree|[Instructions](https://github.com/git-mastery/bonsai-tree)|0|
+  |bonsai-tree|[Instructions](https://github.com/git-mastery/bonsai-tree)|1|
   
   ## `git-commit`
   
