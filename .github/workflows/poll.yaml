@@ -80,6 +80,6 @@ jobs:
               repo: "problems-directory",
               path: "problems.json",
               message: "Update problem sets data",
-              content: btoa(JSON.stringify(Object.fromEntries(repoGroups))),
+              content: btoa(JSON.stringify(repos)),
               sha: existingMap.data.sha,
             })
