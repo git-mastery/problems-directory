@@ -33,11 +33,11 @@ bash download.sh <exercise name>
   |Exercise|Link|Attempts|
   |--------|----|--------|
   |amateur-detective|[Instructions](https://github.com/git-mastery/amateur-detective)|0|
-|nothing-to-hide|[Instructions](https://github.com/git-mastery/nothing-to-hide)|0|
+|nothing-to-hide|[Instructions](https://github.com/git-mastery/nothing-to-hide)|1|
   
   ## `gitignore`
   
   |Exercise|Link|Attempts|
   |--------|----|--------|
-  |nothing-to-hide|[Instructions](https://github.com/git-mastery/nothing-to-hide)|0|
+  |nothing-to-hide|[Instructions](https://github.com/git-mastery/nothing-to-hide)|1|
   
