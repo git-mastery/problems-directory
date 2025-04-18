@@ -13,7 +13,7 @@ bash download.sh <exercise name>
   
   |Exercise|Link|Attempts|
   |--------|----|--------|
-  |grocery-shopping|[Instructions](https://github.com/git-mastery/grocery-shopping)|3|
+  |grocery-shopping|[Instructions](https://github.com/git-mastery/grocery-shopping)|4|
   
   ## `git-branch`
   
@@ -25,7 +25,7 @@ bash download.sh <exercise name>
   
   |Exercise|Link|Attempts|
   |--------|----|--------|
-  |grocery-shopping|[Instructions](https://github.com/git-mastery/grocery-shopping)|3|
+  |grocery-shopping|[Instructions](https://github.com/git-mastery/grocery-shopping)|4|
 |double-take|[Instructions](https://github.com/git-mastery/double-take)|1|
   
   ## `git-status`
@@ -33,7 +33,7 @@ bash download.sh <exercise name>
   |Exercise|Link|Attempts|
   |--------|----|--------|
   |nothing-to-hide|[Instructions](https://github.com/git-mastery/nothing-to-hide)|1|
-|amateur-detective|[Instructions](https://github.com/git-mastery/amateur-detective)|0|
+|amateur-detective|[Instructions](https://github.com/git-mastery/amateur-detective)|1|
   
   ## `gitignore`
   
