@@ -13,7 +13,7 @@ bash download.sh <exercise name>
   
   |Exercise|Link|Attempts|
   |--------|----|--------|
-  |grocery-shopping|[Instructions](https://github.com/git-mastery/grocery-shopping)|4|
+  |grocery-shopping|[Instructions](https://github.com/git-mastery/grocery-shopping)|5|
   
   ## `git-branch`
   
@@ -25,7 +25,7 @@ bash download.sh <exercise name>
   
   |Exercise|Link|Attempts|
   |--------|----|--------|
-  |grocery-shopping|[Instructions](https://github.com/git-mastery/grocery-shopping)|4|
+  |grocery-shopping|[Instructions](https://github.com/git-mastery/grocery-shopping)|5|
 |double-take|[Instructions](https://github.com/git-mastery/double-take)|1|
   
   ## `git-status`
